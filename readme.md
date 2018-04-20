@@ -1,6 +1,6 @@
 # JCGuerra Solution Artículos API
 
-> API Rest en Laravel 5.5. Esta es una API es un CRUD de Artículos.
+> API Rest en Laravel 5.5. Esta es una API de ejemplo con CRUD de Artículos.
 
 ## Quick Start
 
@@ -56,7 +56,7 @@ article_id/title/body
 ### Author
 
 JCGuerra
-[JCGuerra Solutions](http://www.jcguerra.solutions)
+[JCGuerra Solutions](http://jcguerra.solutions)
 
 ### Version
 
